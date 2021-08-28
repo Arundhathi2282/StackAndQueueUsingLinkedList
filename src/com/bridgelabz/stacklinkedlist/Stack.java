@@ -10,13 +10,5 @@ public class Stack {
 		stack.push(56);
 		System.out.println(stack.size());
 		stack.displayElements();
-		System.out.println(stack.peek());
-		System.out.println(stack.pop());
-		System.out.println(stack.peek());
-		System.out.println(stack.pop());
-		System.out.println(stack.peek());
-		System.out.println(stack.pop());
-		System.out.println(stack.peek());
-		System.out.println(stack.pop());
 	}
 }
